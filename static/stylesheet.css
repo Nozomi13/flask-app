@@ -1,5 +1,9 @@
+body {
+    font-family:"MS Pゴシック",sans-serif;
+    }
+
 header {
-    background-color: #76B55B;
+    background-color: #800000;
     height: 60px;
     margin: -8px;
     display: flex;
@@ -11,15 +15,12 @@ header {
     color: #fff;
     font-size: 25px;
     margin: 15px 25px;
+    text-decoration: none;
 }
 
 .header_img {
     height: 25px;
     margin: 15px 25px;
-}
-.header p{
-    text-size:15px;
-    color:pink;
 }
 
 .main {
@@ -28,8 +29,12 @@ header {
 
 h2 {
     color: #444444;
-    margin: 90px 0px;
     text-align: center;
+}
+
+h3{
+    color: #999999;
+    text-align:center;
 }
 
 p {
