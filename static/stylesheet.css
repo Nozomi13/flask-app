@@ -17,6 +17,10 @@ header {
     height: 25px;
     margin: 15px 25px;
 }
+.header p{
+    text-size:15px;
+    color:pink;
+}
 
 .main {
     height: 370px;
